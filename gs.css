@@ -59,9 +59,18 @@ h,td{
 .CHO{
     text-shadow: 2px 2px 2px cornflowerblue;
 }
+.CHO:hover{
+    background-color: aquamarine;
+    text-shadow: 2px 2px 2px cornflowerblue;
+}
 .HIL{
     text-shadow: 2px 2px 2px coral;
 }
+.HIL:hover{
+    background-color: aquamarine;
+    text-shadow: 2px 2px 2px coral;
+}
+
 .material-icons{
     font-size: 25px;
     color: rgb(23, 23, 79);
