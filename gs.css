@@ -62,3 +62,27 @@ h,td{
 .HIL{
     text-shadow: 2px 2px 2px coral;
 }
+.material-icons{
+    font-size: 25px;
+    color: rgb(23, 23, 79);
+}
+ul{
+    list-style-type: square;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+li{
+    float: left;
+}
+li a{
+    display: flexbox;
+    color: tomato;
+    text-align: justify;
+    padding: 15px 20px;
+    text-decoration: double;
+}
+li a:hover{
+    background-color: olivedrab;
+}
