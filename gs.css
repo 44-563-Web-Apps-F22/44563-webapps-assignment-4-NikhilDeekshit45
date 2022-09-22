@@ -1,0 +1,41 @@
+.speech{
+    color: black;
+    font-size: medium;
+    font-style: inherit;
+    text-indent: 25px;
+}
+
+.song{
+    color: black;
+    font-size: medium;
+    font-style: inherit;
+    text-indent: 25px;
+}
+
+.direction{
+   background-color: black;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: medium;
+
+}
+
+.direction:hover{
+    background-color: black;
+    color: aqua;
+}
+.CHO{
+    font-style: oblique;
+    color: blue;
+}
+.FLO{
+    font-style: oblique;
+    color: blueviolet;
+}
+.HIL{
+    font-style: oblique;
+    color: rgb(52, 35, 86);
+}
+.CYR{
+    font-style: oblique;
+    color: darkblue;
+}
